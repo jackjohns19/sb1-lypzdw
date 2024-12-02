@@ -1,0 +1,25 @@
+.progress-tracker {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #4CAF50;
+  transition: width 0.5s ease;
+}
+
+.reward-system {
+  text-align: center;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
